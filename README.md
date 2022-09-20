@@ -1,4 +1,3 @@
-Olá! Sou Thácio Sampaio 
 
 - 🔭 Formação em Análise e Desenvolvimento de Sistemas
 - 🧑🏽‍💻 Estudando Python
